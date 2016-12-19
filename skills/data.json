@@ -1,0 +1,83 @@
+{
+ "name": "Kedar Kamthe",
+ "children": [
+  {
+   "name": "Domain",
+   "children": [
+   
+      {"name": "Banking - 5 Years", "size": 3938},
+      {"name": "Manufacturing and Logistic - 2 Years", "size": 3812},
+      {"name": "Energy - 1 Year", "size": 6714},
+      {"name": "Travel and Hospitality - 1 Year", "size": 743},
+      {"name": "Telecom - 1 Year", "size": 743}
+    
+   ]
+  },
+  {
+   "name": "Databases",
+   "children": [
+    {"name": "Oracle", "size": 17010},
+    {"name": "DB2", "size": 5842},
+    {
+     "name": "No SQL",
+     "children": [
+      {"name": "Apache Cassandra", "size": 1983},
+      {"name": "Mongo DB", "size": 2047}
+     ]
+    },
+    {"name": "Sql Server", "size": 1041},
+    {"name": "sqlLite", "size": 5176}
+   ]
+  },
+  {
+   "name": "Java Framework",
+   "children": [
+    {"name": "Java 8", "size": 1759},
+    {"name": "Spring 4.X", "size": 1759},
+    {"name": "iBatis", "size": 2165},
+    {"name": "Hibernate", "size": 586}
+   ]
+  },
+  {
+   "name": "Web Development",
+   "children": [
+    {"name": "HTML 5", "size": 1616},
+    {"name": "CSS Framework", "children": [
+	 {"name": "CSS3 ", "size": 891},
+	 {"name": "Bootstrap ", "size": 891},
+     {"name": "Material design", "size": 2893}
+	]},
+	{"name": "javascript Framework", "children": [
+	 {"name": "javascript ", "size": 891},
+	 {"name": "Angular JS ", "size": 891},
+     {"name": "jQuery", "size": 2893}
+	]}
+   ]
+  },
+  {
+   "name": "Web Services",
+   "children": [
+   {"name": "SOAP Webservice Framework", "children": [
+	 {"name": "Apache CXF ", "size": 891},
+	 {"name": "Spring", "size": 891}
+	]},
+	 {"name": "REST Webservice Framework", "children": [
+	 {"name": "Apache CXF ", "size": 891},
+	 {"name": "Spring", "size": 891},
+	  {"name": "RESTEasy", "size": 891},
+	  {"name": "Jersey ", "size": 891}
+	]},
+	{"name": "Microservices ", "size": 891}
+   ]
+  },
+  {
+   "name": "Roles Played",
+   "children": [
+	 {"name": "Java Developer", "size": 891},
+	 {"name": "Sr.Java Developer", "size": 891},
+	 {"name": "Java Lead", "size": 891},
+	 {"name": "Technology Specialist (jr. Architect)", "size": 891}
+   ]
+  }
+ ]
+}
