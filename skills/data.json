@@ -14,6 +14,15 @@
    ]
   },
   {
+   "name": "Roles Played",
+   "children": [
+	 {"name": "Java Developer", "size": 891},
+	 {"name": "Sr.Java Developer", "size": 891},
+	 {"name": "Java Lead", "size": 891},
+	 {"name": "Technology Specialist (jr. Architect)", "size": 891}
+   ]
+  },
+  {
    "name": "Databases",
    "children": [
     {"name": "Oracle", "size": 17010},
@@ -68,15 +77,6 @@
 	  {"name": "Jersey ", "size": 891}
 	]},
 	{"name": "Microservices ", "size": 891}
-   ]
-  },
-  {
-   "name": "Roles Played",
-   "children": [
-	 {"name": "Java Developer", "size": 891},
-	 {"name": "Sr.Java Developer", "size": 891},
-	 {"name": "Java Lead", "size": 891},
-	 {"name": "Technology Specialist (jr. Architect)", "size": 891}
    ]
   }
  ]
